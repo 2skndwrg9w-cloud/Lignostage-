@@ -1,0 +1,34 @@
+<svg viewBox="60 90 680 430" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g stroke="#1c1917" stroke-width="26" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <!-- Center vertical kingpost strut -->
+    <line x1="400" y1="120" x2="400" y2="356" />
+
+    <!-- Intermediate struts -->
+    <line x1="260" y1="205" x2="272" y2="362" />
+    <line x1="540" y1="205" x2="528" y2="362" />
+
+    <!-- Outer struts -->
+    <line x1="155" y1="305" x2="168" y2="400" />
+    <line x1="645" y1="305" x2="632" y2="400" />
+
+    <!-- Top scalloped roof contour from left tip to right tip -->
+    <path d="M 85 490
+             C 120 440, 135 370, 155 305
+             C 185 330, 225 305, 260 205
+             C 300 240, 360 215, 400 120
+             C 440 215, 500 240, 540 205
+             C 575 305, 615 330, 645 305
+             C 665 370, 680 440, 715 490" />
+
+    <!-- Inner claw curves -->
+    <path d="M 85 490 C 115 445, 140 415, 168 400" />
+    <path d="M 715 490 C 685 445, 660 415, 632 400" />
+
+    <!-- Bottom arched chord -->
+    <path d="M 168 400
+             L 272 362
+             L 400 356
+             L 528 362
+             L 632 400" />
+  </g>
+</svg>

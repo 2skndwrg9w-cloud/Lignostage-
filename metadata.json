@@ -1,0 +1,6 @@
+{
+  "name": "Lignostage | Modulare Holzbühnen & Stage-Planung",
+  "description": "Vermietung modularer Holzbühnen sowie ganzheitliche Stage-Planung für Festivals – Design, Kalkulation, Vor-Ort-Koordinierung und Logistik aus Dresden.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
